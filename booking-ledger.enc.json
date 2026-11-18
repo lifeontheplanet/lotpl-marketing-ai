@@ -1,5 +1,5 @@
 {
-  "schema": "lotpl.booking.transport.pending.v1",
-  "status": "awaiting_public_key",
-  "contains_customer_data": false
+  "schema": "lotpl.booking.encrypted_records.v1",
+  "records": {},
+  "note": "No customer data published. Waiting for LOTPL site-generated public key."
 }
