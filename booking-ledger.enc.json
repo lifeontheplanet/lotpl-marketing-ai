@@ -1,0 +1,5 @@
+{
+  "schema": "lotpl.booking.transport.pending.v1",
+  "status": "awaiting_public_key",
+  "contains_customer_data": false
+}
